@@ -1,0 +1,19 @@
+# ninja log v5
+8	2077	7546062336950501	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	7c1395980120337d
+4255	4322	7546062359407494	lib/gtest.lib	b84f56db58e20cdf
+4	4255	7546062358717502	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	267d300b546bb73c
+1	926	7545925641545671	CMakeFiles/lab4_main.dir/main.cpp.obj	5c92e4bbd21591da
+4352	4743	7546062363667501	C:/Users/Валентин/CLionProjects/lab4/cmake-build-debug/lab4_tests[1]_tests.cmake	9c709d84a0e8663
+926	1281	7545925644922641	lab4_main.exe	b9f72ced99af4b25
+0	2409	7546062340281813	CMakeFiles/lab4_tests.dir/tests/test.cpp.obj	e995ab7a90183b36
+4322	4352	7546062359747531	lib/gtest_main.lib	7c3ef7325e19b7e4
+4352	4743	7546062363667501	lab4_tests.exe	9c709d84a0e8663
+4352	4743	7546062363667501	lab4_tests[1]_tests.cmake	9c709d84a0e8663
+8	3524	7546664417786436	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	7c1395980120337d
+2	4225	7546664424766755	CMakeFiles/lab4_tests.dir/tests/test.cpp.obj	e995ab7a90183b36
+11	7535	7546664457782153	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	267d300b546bb73c
+7536	7620	7546664458680306	lib/gtest.lib	b84f56db58e20cdf
+7620	7665	7546664459200309	lib/gtest_main.lib	7c3ef7325e19b7e4
+7665	8345	7546664466009937	lab4_tests.exe	9c709d84a0e8663
+7665	8345	7546664466009937	lab4_tests[1]_tests.cmake	9c709d84a0e8663
+7665	8345	7546664466009937	C:/Users/Валентин/CLionProjects/lab4/cmake-build-debug/lab4_tests[1]_tests.cmake	9c709d84a0e8663
